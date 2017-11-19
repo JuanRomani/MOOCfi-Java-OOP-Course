@@ -1,5 +1,5 @@
 # MOOCfi-Java-OOP-Course
-<<<<<<< HEAD
+
 University of Helsinki Object oriented Programming online course.
 
 The course material is identical to the first semester of the University of Helsinki's CS1 course.
@@ -53,6 +53,5 @@ Week 11
 Week 12
 
   Regular expressions, Enum, Iterator, stringBuilder
+  
 =======
-University of Helsinki Object oriented Programming online course
->>>>>>> parent of 95aff63... Update README.md
