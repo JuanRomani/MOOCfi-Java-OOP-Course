@@ -1,57 +1,93 @@
 # MOOCfi-Java-OOP-Course
 
-University of Helsinki Object oriented Programming online course.
+## University of Helsinki Object oriented Programming online course.
 
-The course material is identical to the first semester of the University of Helsinki's CS1 course.
+**The course material is identical to the first semester of the University of Helsinki's CS1 course.**
 
-Course and exercises can be found at http://mooc.fi/courses/2013/programming-part-1/
+_Course material and IDE-plugin can be found at https://tmc.mooc.fi/org/mooc_
 
-Week 1
+### Week 1
 
-  Data types, calcuations, concatenation, user input, conditionals, logical operators, loops
++ Data types 
++ Calcuations
++ Concatenation
++ User input
++ Conditionals
++ Logical operators
++ Loops
 
-Week 2
+### Week 2
 
-  Assignment operations, basic of methods and parameters
++ Assignment operations
++ Basic of methods and parameters
 
-Week 3
+### Week 3
 
-  More about methods, strings of characters, strings as objects, ArrayList, for each booleans
++ More about methods
++ Strings of characters
++ Strings as objects
++ ArrayList
++ For each booleans
 
-Week 4
+### Week 4
 
-  Objects, classes, toString, more about methods, randomness, good syntax
++ Objects and classes
++ The toString method
++ More about methods
++ Randomness
++ Good syntax
 
-Week 5
+#### Week 5
 
-  More about objects
++ More about objects
 
-Week 6
+### Week 6
 
-  Arrays, blocks and nested loops, static and non-static, sorting Arrays, binary search
++ Arrays
++ Blocks and nested loops
++ Static and non-static
++ Sorting Arrays
++ Binary search
 
-Week 7
+### Week 7
 
-  Primitive and reference-type variables, HashMaps, Java API
++ Primitive and reference-type variables
++ HashMaps
++ Java API
 
-Week 8
+### Week 8
 
-  Equals, hashCode, interfaces, generics, Collections
++ Equals
++ HashCode
++ Interfaces
++ Generics
++ Collections
 
-Week 9
+### Week 9
 
-  Single responsibility principle, packages, exceptions, file reading
++ Single responsibility principle
++ Packages
++ Exception handling
++ File reading
 
-Week 10
+### Week 10
 
-  Object polymorphism, class inheritance, abstract classes
++ Object polymorphism
++ Class inheritance
++ Abstract classes
 
-Week 11
+### Week 11
 
-  Writing files, user interfaces, components, layouts
++ Writing into files
++ User interfaces
++ Components
++ Layouts
 
-Week 12
+### Week 12
 
-  Regular expressions, Enum, Iterator, stringBuilder
-  
-=======
++ Regular expressions
++ Enum
++ Iterator
++ stringBuilder
+
+---
